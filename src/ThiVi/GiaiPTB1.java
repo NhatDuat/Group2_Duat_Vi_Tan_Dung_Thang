@@ -74,11 +74,11 @@ public class GiaiPTB1 extends JFrame {
 		
 		lbkq = new JLabel("Kết Qủa X=");
 		lbkq.setFont(new Font("Times New Roman", Font.BOLD, 16));
-		lbkq.setBounds(129, 337, 96, 26);
+		lbkq.setBounds(129, 326, 112, 37);
 		contentPane.add(lbkq);
 		
 		txtkq = new JTextField();
-		txtkq.setBounds(285, 342, 96, 19);
+		txtkq.setBounds(285, 326, 173, 35);
 		contentPane.add(txtkq);
 		txtkq.setColumns(10);
 		
